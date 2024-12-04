@@ -14,6 +14,8 @@ $Volume (V) = f(D, H)$
 
 Where
 
+**V**: Tree Volume is in $m^3$
+
 **D**: Diameter at Breast Height (1.37 m from the ground level) (meter)
 
 **H**: Tree Height (meter)
@@ -28,7 +30,7 @@ Where
 | 6   | $V=a+bD+cD^{2}+dD^{2}H$                   |
 | 7   | $\log_{e}V=a+b\log_{e}D+c\log_{e}H$       |
 | 8   | $\frac{V}{D^2H}=a+bD^2H$                  |
-| 9   | $\frac{V}{D^2H}=a+bD^2H+c\frac{V}{D^2H}$  |
+| 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$   |
 
 : List of types of "General Volume Equations (GVE)"
 
