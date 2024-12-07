@@ -1,5 +1,4 @@
-![Progress](https://progress-bar.xyz/10/?scale=752&title=Progress&width=1000&uffix=%%)
-# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/43/?scale=909&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
 A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 300 species.
 
@@ -56,7 +55,8 @@ $Volume (V) = f(D)$
 
 : List of types of "local Volume Equations (LVE)"
 
-# Species digitized:  
-- [X] _Tectona grandis_
+# Species digitized:
+
+-   [x] *Tectona grandis*
 
 # References
