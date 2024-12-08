@@ -1,4 +1,4 @@
-eq_type,#,y,x_b,x_c,x_d,eq_latex,eq_math,eq
+eq_type,eq_n,y,x_b,x_c,x_d,eq_latex,eq_math,eq
 G,1,V,(D^2)*H,,,V=a+bD^{2}H,V=a+b*(D^2)*H,V=a+b*(D^2)*H
 G,2,V,D,(D^2)*H,,V=a+bD+cD^{2}H                          ,V=a+b*D+c*(D^2)*H,V=a+b*D+c*(D^2)*H
 G,3,V,D^2,((D^2)*H)^2,,V=a+bD^{2}+c\left(D^{2}H\right)^{2}     ,V=a+b*D^2+c*((D^2)*H)^2,V=a+b*D^2+c*((D^2)*H)^2
@@ -8,6 +8,7 @@ G,6,V,D,D^2,(D^2)*H,V=a+bD+cD^{2}+dD^{2}H                   ,V=a+b*D+c*D^2+d*(D^
 G,7,log(V),log(D),log(H),,\log_{e}V=a+b\log_{e}D+c\log_{e}H       ,log(V)=a+b*log(D)+c*log(H),V=exp(a+b*log(D)+c*log(H))
 G,8,V/((D^2)*H),(D^2)*H,,,\frac{V}{D^2H}=a+bD^2H                  ,V/((D^2)*H)=a+b*(D^2)*H,V=(a+b*(D^2)*H)*((D^2)*H)
 G,9,V/((D^2)*H),(D^2)*H,1/((D^2)*H),,\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}  ,V/((D^2)*H)=a+b*(D^2)*H+c/((D^2)*H),V=(a+b*(D^2)*H+c/((D^2)*H))*((D^2)*H)
+G,10,V/((D^2)*H),1/((D^2)*H),,,\frac{V}{D^2H}=a+b\frac{c}{D^2H}  ,V/((D^2)*H)=a+b/((D^2)*H),V=(a+b*/((D^2)*H))*((D^2)*H)
 L,1,V,D^2,,,V=a+b*(D^2),V=a+b*D^2,V=a+b*D^2
 L,2,V,D,D^2,,V=a+bD+cD^{2},V=a+b*D+c*D^2,V=a+b*D+c*D^2
 L,3,V,D,D^2,D^3,V=a+bD+cD^{2}+dD^{3}              ,V=a+b*D+c*D^2+d*D^3,V=a+b*D+c*D^2+d*D^3
@@ -17,4 +18,6 @@ L,6,sqrt(V),D,sqrt(D),,\sqrt{V}=a+bD+c\sqrt{D},sqrt(V)=a+b*D+c*sqrt(D),V=(a+b*D+
 L,7,V/(D^2),1/(D^2),,, \frac{V}{D^2}=a+\frac{b}{D^2},V/(D^2)=a+b*1/(D^2),V=(a+b*1/(D^2))*(D^2)
 L,8,V/(D^2),1/D,1/(D^2),,\frac{V}{D^2}=a+\frac{b}{D}+\frac{c}{D^2},V/(D^2)=a+b/D+c*1/(D^2),V=(a+b/D+c*1/(D^2))*(D^2)
 L,9,V/(D^2),1/(D^2),1/D,D,\frac{V}{D^2}=a+\frac{b}{D^2}+\frac{c}{D}+dD,V/(D^2)=a+b/(D^2)+c/D+d*D,V=(a+b/(D^2)+c/D+d*D)*(D^2)
-L,10,log(V),log(D),,,\log_{e}V=a+b\log_{e}D,log(V)=a+b*log(D),V=exp(a+b*log(D))
+L,10,log(V),log(D),,,\log_{e}V=a+b*\log_{e}D,log(V)=a+b*log(D),V=exp(a+b*log(D))
+L,11,sqrt(V),D,D^2,,\sqrt{V}=a+b*D+c*(D^2),sqrt(V)=a+b*D+c*(D^2),V=(a+b*D+c*(D^2))^2
+L,12,V/D,1/D,D,D^2,\frac{V}{D}=a+\frac{b}{D}+c*D+d*(D^2),V/D=a+b/D+c*D+d*(D^2),(a+b/D+c*D+d*(D^2))*D
