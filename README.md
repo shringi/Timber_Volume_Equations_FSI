@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/43/?scale=909&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/68/?scale=917&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
 A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 300 species.
 
@@ -31,6 +31,7 @@ Where
 | 7   | $\log_{e}V=a+b\log_{e}D+c\log_{e}H$       |
 | 8   | $\frac{V}{D^2H}=a+bD^2H$                  |
 | 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$   |
+| 10  | $\frac{V}{D^2H}=a+\frac{b}{D^2H}$         |
 
 : List of types of "General Volume Equations (GVE)"
 
@@ -52,11 +53,14 @@ $Volume (V) = f(D)$
 | 8   | $\frac{V}{D^2}=a+\frac{b}{D}+\frac{c}{D^2}$    |
 | 9   | $\frac{V}{D^2}=a+\frac{b}{D^2}+\frac{c}{D}+dD$ |
 | 10  | $\log_{e}V=a+b\log_{e}D$                       |
+| 11  | $\sqrt{V}=a+bD+c(D^2)$                         |
+| 12  | $\frac{V}{D}=a+\frac{b}{D}+cD+d(D^2)$          |
 
 : List of types of "local Volume Equations (LVE)"
 
 # Species digitized:
 
+-   [x] *Anogeissus latifolia*
 -   [x] *Tectona grandis*
 
 # References
