@@ -1,9 +1,4 @@
----
-output:
-  word_document: default
-  html_document: default
----
-![Progress](https://progress-bar.xyz/68/?scale=917&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/119/?scale=935&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
 A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 300 species.
 
@@ -66,5 +61,6 @@ $Volume (V) = f(D)$
 
 -   [x] *Anogeissus latifolia*
 -   [x] *Tectona grandis*
+-   [x] *Terminalia tomentosa*
 
 # References
