@@ -1,6 +1,6 @@
-![Progress](https://progress-bar.xyz/129/?scale=940&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/154/?scale=948&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
-A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 300 species.
+A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 222 species.
 
 [^readme-1]: Forest Survey of India. (1996). *Volume equations for forests of India, Nepal, and Bhutan*. Forest Survey of India, Ministry of Environment & Forests, Government of India. [FSI Book Link](https://fsi.nic.in/uploads/documents/volume-equations-for-forests-of-india-nepal-and-bhutan-2803-2023.pdf)
 
@@ -31,6 +31,7 @@ Where
 | 7   | $\log_{e}V=a+b\log_{e}D+c\log_{e}H$       |
 | 8   | $\frac{V}{D^2H}=a+bD^2H$                  |
 | 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$   |
+| 10  | $V=a+bD^{2}+cH+dD^{2}H$                   |
 
 : List of types of "General Volume Equations (GVE)"
 
@@ -228,7 +229,7 @@ $Volume (V) = f(D)$
 -   [ ] *Populus ciliata*
 -   [ ] *Premna species*
 -   [ ] *Pterocarpus dalbergioides*
--   [ ] *Pterocarpus marsupium*
+-   [x] *Pterocarpus marsupium*
 -   [ ] *Pterocymbium tinctorium (Sterculia companulata)*
 -   [ ] *Pterospermum acerifolium*
 -   [ ] *Pterospermum species*
