@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/154/?scale=948&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/167/?scale=953&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
 A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 222 species.
 
@@ -77,7 +77,6 @@ $Volume (V) = f(D)$
 -   [ ] *Albizia lebbeck*
 -   [ ] *Albizia lucida*
 -   [ ] *Albizia procera*
--   [ ] *Albizia procera*
 -   [ ] *Albizia species*
 -   [ ] *Albizia stipulata*
 -   [ ] *Alnus nepalensis*
@@ -115,7 +114,7 @@ $Volume (V) = f(D)$
 -   [ ] *Canarium strictum*
 -   [ ] *Careya arborea*
 -   [ ] *Casearia species*
--   [ ] *Cassia fistula*
+-   [x] *Cassia fistula*
 -   [ ] *Cassia siamea*
 -   [ ] *Castanopsis hystrix*
 -   [ ] *Castanopsis indica*
@@ -169,7 +168,7 @@ $Volume (V) = f(D)$
 -   [ ] *Ficus species*
 -   [ ] *Garcinia cambogia*
 -   [ ] *Garcinia morella*
--   [ ] *Garuga pinnata*
+-   [x] *Garuga pinnata*
 -   [ ] *Gmelina arborea*
 -   [ ] *Grewia species*
 -   [ ] *Grewia tiliaefolia*
@@ -266,7 +265,7 @@ $Volume (V) = f(D)$
 -   [ ] *Terminalia chebula*
 -   [ ] *Terminalia citrana*
 -   [ ] *Terminalia myriocarpa*
--   [ ] *Terminalia paniculata*
+-   [x] *Terminalia paniculata*
 -   [ ] *Terminalia procera*
 -   [ ] *Terminalia species*
 -   [x] *Terminalia tomentosa*
