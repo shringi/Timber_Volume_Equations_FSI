@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/167/?scale=953&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
+![Progress](https://progress-bar.xyz/173/?scale=955&title=Progress&width=1000&uffix=%%) \# Timber Volume Equations (Published by Forest Survey of India (FSI))
 
 A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 222 species.
 
@@ -181,7 +181,7 @@ $Volume (V) = f(D)$
 -   [ ] *Hymenodictyon excelsum*
 -   [ ] *Juglans regia*
 -   [ ] *Kingiodendron pinnatum/Hardwickia pinnata*
--   [ ] *Kydia calycina*
+-   [x] *Kydia calycina*
 -   [ ] *Lagerstroemia lanceolata*
 -   [ ] *Lagerstroemia parviflora*
 -   [ ] *Lagerstroemia species*
