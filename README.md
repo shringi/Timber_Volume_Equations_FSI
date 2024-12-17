@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/208/?scale=968&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/215/?scale=971&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -104,7 +104,7 @@ $Volume (V) = f(D)$
 -   [ ] *Bombax ceiba*
 -   [ ] *Bombax insigne*
 -   [ ] *Boswellia serrata*
--   [ ] *Bridelia retusa*
+-   [x] *Bridelia retusa*
 -   [ ] *Broussonetia papyrifera*
 -   [ ] *Bucbanania latifolia*
 -   [ ] *Buchanania angustifolia*
