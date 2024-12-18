@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/215/?scale=971&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/228/?scale=973&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -122,7 +122,7 @@ $Volume (V) = f(D)$
 -   [ ] *Castanopsis indica*
 -   [ ] *Castanopsis species*
 -   [ ] *Cedrus deodara*
--   [ ] *Chickrassia tabularis*
+-   [x] *Chickrassia tabularis*
 -   [ ] *Chir-pine (Pinus roxburghii)*
 -   [ ] *Chloroxylon swietenia*
 -   [ ] *Cinnamomum cecidodaphne*
@@ -171,9 +171,9 @@ $Volume (V) = f(D)$
 -   [ ] *Garcinia cambogia*
 -   [ ] *Garcinia morella*
 -   [x] *Garuga pinnata*
--   [ ] *Gmelina arborea*
+-   [x] *Gmelina arborea*
 -   [ ] *Grewia species*
--   [ ] *Grewia tiliaefolia*
+-   [x] *Grewia tiliaefolia*
 -   [ ] *Hardwickia binata*
 -   [ ] *Holarrhena antidysenterica*
 -   [ ] *Holigarna beddomei*
