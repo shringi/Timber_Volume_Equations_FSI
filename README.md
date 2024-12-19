@@ -6,7 +6,7 @@ A digital compilation of timber volume equations published by Forest Survey of I
 
 [^readme-1]: Forest Survey of India. (1996). *Volume equations for forests of India, Nepal, and Bhutan*. Forest Survey of India, Ministry of Environment & Forests, Government of India. [FSI Book Link](https://fsi.nic.in/uploads/documents/volume-equations-for-forests-of-india-nepal-and-bhutan-2803-2023.pdf)
 
-There are two types of equations used in the book.
+There are two types of equations used in the book. One types of equations have tree-height as a separate parameter and called general volume equation. These can be applied to a larger geographic area of the species. The second types of equation are called local volume equation and these just require diameter at the breast height as the only measurement.
 
 ## General Volume Equations
 
