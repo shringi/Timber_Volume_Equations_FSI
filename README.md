@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/230/?scale=974&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/231/?scale=974&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -186,7 +186,7 @@ $Volume (V) = f(D)$
 -   [x] *Kydia calycina*
 -   [x] *Lagerstroemia lanceolata*
 -   [x] *Lagerstroemia parviflora*
--   [ ] *Lagerstroemia species*
+-   [x] *Lagerstroemia species*
 -   [ ] *Lannea coromandelica*
 -   [ ] *Lansium anamallayanum*
 -   [x] *Larix griffithii*
