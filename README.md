@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/234/?scale=975&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/237/?scale=975&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -259,7 +259,7 @@ $Volume (V) = f(D)$
 -   [ ] *Symplocos spicata*
 -   [ ] *Symplocos theaefolia*
 -   [ ] *Syzygium cumini*
--   [ ] *Syzygium species*
+-   [x] *Syzygium species*
 -   [ ] *Taxus baccata*
 -   [x] *Tectona grandis*
 -   [ ] *Terminalia belerica*
