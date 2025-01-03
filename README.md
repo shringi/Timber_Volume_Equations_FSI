@@ -269,7 +269,7 @@ $Volume (V) = f(D)$
 -   [ ] *Terminalia myriocarpa*
 -   [x] *Terminalia paniculata*
 -   [ ] *Terminalia procera*
--   [ ] *Terminalia species*
+-   [x] *Terminalia species*
 -   [x] *Terminalia tomentosa*
 -   [ ] *Tetrameles nudiflora*
 -   [ ] *Toona ciliata*
