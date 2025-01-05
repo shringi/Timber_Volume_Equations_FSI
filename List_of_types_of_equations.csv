@@ -15,7 +15,7 @@ L,3,V,D,D^2,D^3,V=a+bD+cD^{2}+dD^{3}              ,V=a+b*D+c*D^2+d*D^3,V=a+b*D+c
 L,4,V,sqrt(D),D^2,,V=a+b\sqrt{D}+cD^{2},V=a+b*sqrt(D)+c*D^2,V=a+b*sqrt(D)+c*D^2
 L,5,sqrt(V),D,,,\sqrt{V}=a+bD,sqrt(V)=a+b*D,V=(a+b*D)^2
 L,6,sqrt(V),D,sqrt(D),,\sqrt{V}=a+bD+c\sqrt{D},sqrt(V)=a+b*D+c*sqrt(D),V=(a+b*D+c*sqrt(D))^2
-L,7,V/(D^2),1/(D^2),,, \frac{V}{D^2}=a+\frac{b}{D^2},V/(D^2)=a+b*1/(D^2),V=(a+b*1/(D^2))*(D^2)
+L,7,V/(D^2),1/(D^2),,, \frac{V}{D^2}=a+\frac{b}{D^2},V/(D^2)=a+b/(D^2),V=(a+b/(D^2))*(D^2)
 L,8,V/(D^2),1/D,1/(D^2),,\frac{V}{D^2}=a+\frac{b}{D}+\frac{c}{D^2},V/(D^2)=a+b/D+c/(D^2),V=(a+b/D+c/(D^2))*(D^2)
 L,9,V/(D^2),1/(D^2),1/D,D,\frac{V}{D^2}=a+\frac{b}{D^2}+\frac{c}{D}+dD,V/(D^2)=a+b/(D^2)+c/D+d*D,V=(a+b/(D^2)+c/D+d*D)*(D^2)
 L,10,log(V),log(D),,,\log_{e}V=a+b*\log_{e}D,log(V)=a+b*log(D),V=exp(a+b*log(D))
