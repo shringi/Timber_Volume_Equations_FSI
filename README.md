@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/247/?scale=978&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/248/?scale=978&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -74,7 +74,7 @@ $Volume (V) = f(D)$
 -   [ ] *Adina cordifolia*
 -   [ ] *Adina cordifolia*
 -   [x] *Adina oligocephala*
--   [ ] *Aesculus indica*
+-   [x] *Aesculus indica*
 -   [ ] *Ailanthus grandis*
 -   [ ] *Albizia lebbeck*
 -   [ ] *Albizia lucida*
