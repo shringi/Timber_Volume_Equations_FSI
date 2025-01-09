@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/248/?scale=978&title=Progress&width=1000&uffix=%%)
+![Progress](https://progress-bar.xyz/264/?scale=988&title=Progress&width=1000&uffix=%%)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -77,7 +77,7 @@ $Volume (V) = f(D)$
 -   [x] *Aesculus indica*
 -   [ ] *Ailanthus grandis*
 -   [ ] *Albizia lebbeck*
--   [ ] *Albizia lucida*
+-   [x] *Albizia lucida*
 -   [ ] *Albizia procera*
 -   [ ] *Albizia species*
 -   [ ] *Albizia stipulata*
