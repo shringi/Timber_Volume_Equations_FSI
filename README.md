@@ -57,6 +57,7 @@ $Volume (V) = f(D)$
 | 10  | $\log_{e}V=a+b\log_{e}D$                       |
 | 11  | $\sqrt{V}=a+bD+c(D^2)$                         |
 | 12  | $\frac{V}{D}=a+\frac{b}{D}+cD+d(D^2)$          |
+| 13  | $V=a+b\sqrt{D}+cD+d(D^2)$                      |
 
 : List of types of "local Volume Equations (LVE)"
 
