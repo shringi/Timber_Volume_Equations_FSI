@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/278/?scale=988&title=Progress&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/279/?scale=993&title=Progress&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -197,7 +197,7 @@ $Volume (V) = f(D)$
 -   [ ] *Machilus odoratissima*
 -   [ ] *Machilus species*
 -   [ ] *Madhuca latifolia*
--   [ ] *Mallotus philippinensis*
+-   [x] *Mallotus philippinensis*
 -   [ ] *Manilkara littoralis*
 -   [ ] *Mansonia dipikae*
 -   [ ] *Mastixia arborea*
