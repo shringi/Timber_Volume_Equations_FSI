@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/279/?scale=993&title=Progress&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/291/?scale=993&title=Progress&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -208,7 +208,7 @@ $Volume (V) = f(D)$
 -   [ ] *Michelia excelsa*
 -   [ ] *Michelia species*
 -   [ ] *Miliusa species*
--   [ ] *Mitragyna parviflora*
+-   [x] *Mitragyna parviflora*
 -   [ ] *Monsonia species*
 -   [ ] *Myristica magnifica*
 -   [ ] *Myristica malabarica*
