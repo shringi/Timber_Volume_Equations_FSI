@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/292/?scale=993&title=Progress&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/293/?scale=993&title=Progress&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -249,7 +249,7 @@ $Volume (V) = f(D)$
 -   [ ] *Schima khasiana*
 -   [ ] *Schima wallichii*
 -   [ ] *Schleichera trijuga*
--   [ ] *Semecarpus anacardium*
+-   [x] *Semecarpus anacardium*
 -   [ ] *Shorea assamica*
 -   [ ] *Shorea robusta*
 -   [ ] *Sideroxylon longepetiolatum*
