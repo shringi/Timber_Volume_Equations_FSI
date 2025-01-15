@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/293/?scale=993&title=Progress&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/295/?scale=993&title=Progress&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -255,7 +255,7 @@ $Volume (V) = f(D)$
 -   [ ] *Sideroxylon longepetiolatum*
 -   [ ] *Spondias pinnata*
 -   [ ] *Sterculia villosa*
--   [ ] *Stereospermum personatum*
+-   [x] *Stereospermum personatum*
 -   [ ] *Stereospermum suaveolens*
 -   [ ] *Symplocos spicata*
 -   [ ] *Symplocos theaefolia*
