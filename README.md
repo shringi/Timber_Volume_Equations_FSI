@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/309/?scale=996&title=Progress%20(31.02%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/311/?scale=997&title=Progress%20(31.19%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -265,7 +265,7 @@ $Volume (V) = f(D)$
 -   [x] *Tectona grandis*
 -   [ ] *Terminalia belerica*
 -   [ ] *Terminalia bialata*
--   [ ] *Terminalia chebula*
+-   [x] *Terminalia chebula*
 -   [x] *Terminalia citrana*
 -   [ ] *Terminalia myriocarpa*
 -   [x] *Terminalia paniculata*
