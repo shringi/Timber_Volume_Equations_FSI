@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/326/?scale=1003&title=Progress%20(32.50%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/330/?scale=1004&title=Progress%20(32.87%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -280,7 +280,7 @@ $Volume (V) = f(D)$
 -   [ ] *Tsuga dumosa*
 -   [ ] *Vateria indica*
 -   [ ] *Vitex peduncularis*
--   [ ] *Wrightia tinctoria*
+-   [x] *Wrightia tinctoria*
 -   [x] *Xerospermum glabratum*
 -   [ ] *Xylia xylocarpa*
 -   [ ] *Zanthoxylum rhetsa*
