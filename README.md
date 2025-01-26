@@ -88,7 +88,7 @@ $Volume (V) = f(D)$
 -   [ ] *Amoora rohituka*
 -   [ ] *Amoora wallichii*
 -   [x] *Anogeissus latifolia*
--   [ ] *Anogeissus pendula*
+-   [x] *Anogeissus pendula*
 -   [ ] *Anogeissus species*
 -   [ ] *Anthocephalus cadamba*
 -   [ ] *Aphanamixis polystachya/ Amoora Canarana*
