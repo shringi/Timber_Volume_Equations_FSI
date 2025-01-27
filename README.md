@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/332/?scale=1005&title=Progress%20(33.03%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/334/?scale=1005&title=Progress%20(33.23%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -81,7 +81,7 @@ $Volume (V) = f(D)$
 -   [x] *Albizia lucida*
 -   [ ] *Albizia procera*
 -   [ ] *Albizia species*
--   [ ] *Albizia stipulata*
+-   [x] *Albizia stipulata*
 -   [ ] *Alnus nepalensis*
 -   [ ] *Alnus species*
 -   [ ] *Altingia excelsa*
