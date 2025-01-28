@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/334/?scale=1005&title=Progress%20(33.23%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/335/?scale=1005&title=Progress%20(33.33%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -95,7 +95,7 @@ $Volume (V) = f(D)$
 -   [ ] *Artocarpus chaplasha*
 -   [ ] *Artocarpus hirsuta*
 -   [ ] *Artocarpus lakoocha*
--   [ ] *Bauhinia species*
+-   [x] *Bauhinia species*
 -   [ ] *Beilschemedia species*
 -   [ ] *Beilschmiedia roxburghiana*
 -   [ ] *Betula alnoides*
