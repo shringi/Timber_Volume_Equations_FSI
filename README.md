@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/335/?scale=1005&title=Progress%20(33.33%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/337/?scale=1005&title=Progress%20(33.53%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -101,7 +101,7 @@ $Volume (V) = f(D)$
 -   [ ] *Betula alnoides*
 -   [ ] *Betula species*
 -   [ ] *Betula utilis*
--   [ ] *Bischofia javanica*
+-   [x] *Bischofia javanica*
 -   [ ] *Bombax ceiba*
 -   [ ] *Bombax insigne*
 -   [ ] *Boswellia serrata*
