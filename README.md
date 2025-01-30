@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/337/?scale=1005&title=Progress%20(33.53%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/338/?scale=1005&title=Progress%20(33.63%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -109,7 +109,7 @@ $Volume (V) = f(D)$
 -   [ ] *Broussonetia papyrifera*
 -   [ ] *Bucbanania latifolia*
 -   [ ] *Buchanania angustifolia*
--   [ ] *Callicarpa species*
+-   [x] *Callicarpa species*
 -   [ ] *Callophyllum elatum/tomentosum*
 -   [ ] *Calophyllum inophyllum*
 -   [ ] *Canarium euphyllum*
