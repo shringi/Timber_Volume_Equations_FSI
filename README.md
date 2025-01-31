@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/338/?scale=1005&title=Progress%20(33.63%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/339/?scale=1005&title=Progress%20(33.73%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -113,7 +113,7 @@ $Volume (V) = f(D)$
 -   [ ] *Callophyllum elatum/tomentosum*
 -   [ ] *Calophyllum inophyllum*
 -   [ ] *Canarium euphyllum*
--   [ ] *Canarium species*
+-   [x] *Canarium species*
 -   [ ] *Canarium strictum*
 -   [ ] *Careya arborea*
 -   [ ] *Casearia species*
