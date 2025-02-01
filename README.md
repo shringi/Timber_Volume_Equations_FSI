@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/339/?scale=1005&title=Progress%20(33.73%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/340/?scale=1005&title=Progress%20(33.73%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -116,7 +116,7 @@ $Volume (V) = f(D)$
 -   [x] *Canarium species*
 -   [ ] *Canarium strictum*
 -   [ ] *Careya arborea*
--   [ ] *Casearia species*
+-   [x] *Casearia species*
 -   [x] *Cassia fistula*
 -   [ ] *Cassia siamea*
 -   [ ] *Castanopsis hystrix*
