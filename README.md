@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/341/?scale=1005&title=Progress%20(33.93%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/343/?scale=1005&title=Progress%20(34.13%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -119,7 +119,7 @@ $Volume (V) = f(D)$
 -   [x] *Casearia species*
 -   [x] *Cassia fistula*
 -   [x] *Cassia siamea*
--   [ ] *Castanopsis hystrix*
+-   [x] *Castanopsis hystrix*
 -   [ ] *Castanopsis indica*
 -   [ ] *Castanopsis species*
 -   [ ] *Cedrus deodara*
