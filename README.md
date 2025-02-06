@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/345/?scale=1005&title=Progress%20(34.33%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/346/?scale=1005&title=Progress%20(34.43%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -131,7 +131,7 @@ $Volume (V) = f(D)$
 -   [x] *Cinnamomum tamala*
 -   [ ] *Cinnamomum zeylanicum*
 -   [ ] *Cleistanthus collinus*
--   [ ] *Cochlospermum gossypium*
+-   [x] *Cochlospermum gossypium*
 -   [ ] *Cordia species*
 -   [ ] *Cryptomeria japonica*
 -   [ ] *Cryptomeria paniculata*
