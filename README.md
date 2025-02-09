@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/349/?scale=1005&title=Progress%20(34.73%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/350/?scale=1005&title=Progress%20(34.83%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -136,7 +136,7 @@ $Volume (V) = f(D)$
 -   [ ] *Cryptomeria japonica*
 -   [x] *Cryptomeria paniculata*
 -   [x] *Cupressus species*
--   [ ] *Cyclostemon assamicus*
+-   [x] *Cyclostemon assamicus*
 -   [x] *Dalbergia latifolia*
 -   [ ] *Dalbergia sissoo*
 -   [ ] *Dalbergia species*
