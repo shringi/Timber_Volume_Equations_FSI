@@ -143,7 +143,7 @@ $Volume (V) = f(D)$
 -   [ ] *Dillenia indica*
 -   [ ] *Dillenia pentagyna*
 -   [ ] *Diospyros malabarica*
--   [ ] *Diospyros melanoxylon*
+-   [x] *Diospyros melanoxylon*
 -   [ ] *Diospyros species*
 -   [ ] *Diploknema butyracea/Madhuca butyracea*
 -   [ ] *Dipterocarpus indicus*
