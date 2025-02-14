@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/376/?scale=1014&title=Progress%20(37.08%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/382/?scale=1017&title=Progress%20(37.56%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -65,7 +65,7 @@ $Volume (V) = f(D)$
 
 -   [x] *Abies densa*
 -   [x] *Abies pindrow*
--   [ ] *Abies smithiana*
+-   [x] *Abies smithiana*
 -   [ ] *Acacia auriculiformis*
 -   [ ] *Acacia catechu*
 -   [x] *Acacia species*
