@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/407/?scale=1025&title=Progress%20(39.71%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/431/?scale=1034&title=Progress%20(41.68%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -72,7 +72,7 @@ $Volume (V) = f(D)$
 -   [x] *Acer campbellii*
 -   [x] *Acer species*
 -   [x] *Acrocarpus fraxinifolius*
--   [ ] *Adina cordifolia*
+-   [x] *Adina cordifolia*
 -   [ ] *Adina cordifolia*
 -   [x] *Adina oligocephala*
 -   [x] *Aesculus indica*
