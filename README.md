@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/441/?scale=1036&title=Progress%20(42.57%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/453/?scale=1042&title=Progress%20(43.47%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -79,10 +79,10 @@ $Volume (V) = f(D)$
 -   [x] *Ailanthus grandis*
 -   [x] *Albizia lebbeck*
 -   [x] *Albizia lucida*
--   [ ] *Albizia procera*
--   [ ] *Albizia species*
+-   [x] *Albizia procera*
+-   [x] *Albizia species*
 -   [x] *Albizia stipulata*
--   [ ] *Alnus nepalensis*
+-   [x] *Alnus nepalensis*
 -   [ ] *Alnus species*
 -   [ ] *Altingia excelsa*
 -   [ ] *Amoora rohituka*
