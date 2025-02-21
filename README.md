@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/469/?scale=1047&title=Progress%20(44.79%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/490/?scale=1055&title=Progress%20(46.45%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -63,6 +63,10 @@ $Volume (V) = f(D)$
 
 # Species digitized:
 
+Please see the following link of the project wiki for a general description of the species.
+
+[A list of links for getting a general description of species.](https://github.com/shringi/Timber_Volume_Equations_FSI/wiki/Species)
+
 -   [x] *Abies densa*
 -   [x] *Abies pindrow*
 -   [x] *Abies smithiana*
@@ -102,7 +106,7 @@ $Volume (V) = f(D)$
 -   [ ] *Betula species*
 -   [ ] *Betula utilis*
 -   [x] *Bischofia javanica*
--   [ ] *Bombax ceiba*
+-   [x] *Bombax ceiba*
 -   [ ] *Bombax insigne*
 -   [ ] *Boswellia serrata*
 -   [x] *Bridelia retusa*
