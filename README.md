@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/490/?scale=1055&title=Progress%20(46.45%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/494/?scale=1055&title=Progress%20(46.82%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -93,7 +93,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Amoora wallichii*
 -   [x] *Anogeissus latifolia*
 -   [x] *Anogeissus pendula*
--   [ ] *Anogeissus species*
+-   [x] *Anogeissus species*
 -   [ ] *Anthocephalus cadamba*
 -   [ ] *Aphanamixis polystachya/ Amoora Canarana*
 -   [ ] *Artocarpus chaplasha*
