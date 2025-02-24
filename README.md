@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/494/?scale=1055&title=Progress%20(46.82%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/524/?scale=1064&title=Progress%20(49.25%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -94,17 +94,17 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Anogeissus latifolia*
 -   [x] *Anogeissus pendula*
 -   [x] *Anogeissus species*
--   [ ] *Anthocephalus cadamba*
--   [ ] *Aphanamixis polystachya/ Amoora Canarana*
--   [ ] *Artocarpus chaplasha*
--   [ ] *Artocarpus hirsuta*
--   [ ] *Artocarpus lakoocha*
+-   [x] *Anthocephalus cadamba*
+-   [x] *Aphanamixis polystachya/ Amoora Canarana*
+-   [x] *Artocarpus chaplasha*
+-   [x] *Artocarpus hirsuta*
+-   [x] *Artocarpus lakoocha*
 -   [x] *Bauhinia species*
--   [ ] *Beilschemedia species*
--   [ ] *Beilschmiedia roxburghiana*
--   [ ] *Betula alnoides*
--   [ ] *Betula species*
--   [ ] *Betula utilis*
+-   [x] *Beilschemedia species*
+-   [x] *Beilschmiedia roxburghiana*
+-   [x] *Betula alnoides*
+-   [x] *Betula species*
+-   [x] *Betula utilis*
 -   [x] *Bischofia javanica*
 -   [x] *Bombax ceiba*
 -   [ ] *Bombax insigne*
