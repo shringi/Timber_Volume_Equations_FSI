@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/524/?scale=1064&title=Progress%20(49.25%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/554/?scale=1073&title=Progress%20(51.63%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -108,7 +108,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Bischofia javanica*
 -   [x] *Bombax ceiba*
 -   [ ] *Bombax insigne*
--   [ ] *Boswellia serrata*
+-   [x] *Boswellia serrata*
 -   [x] *Bridelia retusa*
 -   [ ] *Broussonetia papyrifera*
 -   [ ] *Bucbanania latifolia*
