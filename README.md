@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/554/?scale=1073&title=Progress%20(51.63%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/571/?scale=1087&title=Progress%20(52.53%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -107,12 +107,12 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Betula utilis*
 -   [x] *Bischofia javanica*
 -   [x] *Bombax ceiba*
--   [ ] *Bombax insigne*
+-   [x] *Bombax insigne*
 -   [x] *Boswellia serrata*
 -   [x] *Bridelia retusa*
--   [ ] *Broussonetia papyrifera*
--   [ ] *Bucbanania latifolia*
--   [ ] *Buchanania angustifolia*
+-   [x] *Broussonetia papyrifera*
+-   [x] *Buchanania latifolia*
+-   [x] *Buchanania angustifolia*
 -   [x] *Callicarpa species*
 -   [ ] *Callophyllum elatum/tomentosum*
 -   [ ] *Calophyllum inophyllum*
