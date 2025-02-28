@@ -1,8 +1,8 @@
-![Progress](https://progress-bar.xyz/571/?scale=1087&title=Progress%20(52.53%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/591/?scale=1087&title=Progress%20(54.37%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
-A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1000 equations on nearly 222 species.
+A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1100 equations on nearly 222 species.
 
 [^readme-1]: Forest Survey of India. (1996). *Volume equations for forests of India, Nepal, and Bhutan*. Forest Survey of India, Ministry of Environment & Forests, Government of India. [FSI Book Link](https://fsi.nic.in/uploads/documents/volume-equations-for-forests-of-india-nepal-and-bhutan-2803-2023.pdf)
 
@@ -114,12 +114,12 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Buchanania latifolia*
 -   [x] *Buchanania angustifolia*
 -   [x] *Callicarpa species*
--   [ ] *Callophyllum elatum/tomentosum*
--   [ ] *Calophyllum inophyllum*
--   [ ] *Canarium euphyllum*
+-   [x] *Callophyllum elatum/tomentosum*
+-   [x] *Calophyllum inophyllum*
+-   [x] *Canarium euphyllum*
 -   [x] *Canarium species*
--   [ ] *Canarium strictum*
--   [ ] *Careya arborea*
+-   [x] *Canarium strictum*
+-   [x] *Careya arborea*
 -   [x] *Casearia species*
 -   [x] *Cassia fistula*
 -   [x] *Cassia siamea*
