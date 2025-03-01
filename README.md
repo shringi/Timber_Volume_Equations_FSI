@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/591/?scale=1087&title=Progress%20(54.37%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/617/?scale=1096&title=Progress%20(56.30%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -125,12 +125,12 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Cassia siamea*
 -   [x] *Castanopsis hystrix*
 -   [x] *Castanopsis indica*
--   [ ] *Castanopsis species*
--   [ ] *Cedrus deodara*
+-   [x] *Castanopsis species*
+-   [x] *Cedrus deodara*
 -   [x] *Chickrassia tabularis*
 -   [ ] *Chir-pine (Pinus roxburghii)*
--   [ ] *Chloroxylon swietenia*
--   [ ] *Cinnamomum cecidodaphne*
+-   [x] *Chloroxylon swietenia*
+-   [x] *Cinnamomum cecidodaphne*
 -   [ ] *Cinnamomum species*
 -   [x] *Cinnamomum tamala*
 -   [ ] *Cinnamomum zeylanicum*
