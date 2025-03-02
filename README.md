@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/617/?scale=1096&title=Progress%20(56.30%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/617/?scale=1105&title=Progress%20(57.83%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -131,13 +131,13 @@ Please see the following link of the project wiki for a general description of t
 -   [ ] *Chir-pine (Pinus roxburghii)*
 -   [x] *Chloroxylon swietenia*
 -   [x] *Cinnamomum cecidodaphne*
--   [ ] *Cinnamomum species*
+-   [x] *Cinnamomum species*
 -   [x] *Cinnamomum tamala*
--   [ ] *Cinnamomum zeylanicum*
--   [ ] *Cleistanthus collinus*
+-   [x] *Cinnamomum zeylanicum*
+-   [x] *Cleistanthus collinus*
 -   [x] *Cochlospermum gossypium*
 -   [x] *Cordia species*
--   [ ] *Cryptomeria japonica*
+-   [x] *Cryptomeria japonica*
 -   [x] *Cryptomeria paniculata*
 -   [x] *Cupressus species*
 -   [x] *Cyclostemon assamicus*
