@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/617/?scale=1105&title=Progress%20(57.83%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/677/?scale=1117&title=Progress%20(60.61%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -142,11 +142,11 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Cupressus species*
 -   [x] *Cyclostemon assamicus*
 -   [x] *Dalbergia latifolia*
--   [ ] *Dalbergia sissoo*
--   [ ] *Dalbergia species*
--   [ ] *Dillenia indica*
--   [ ] *Dillenia pentagyna*
--   [ ] *Diospyros malabarica*
+-   [x] *Dalbergia sissoo*
+-   [x] *Dalbergia species*
+-   [x] *Dillenia indica*
+-   [x] *Dillenia pentagyna*
+-   [x] *Diospyros malabarica*
 -   [x] *Diospyros melanoxylon*
 -   [x] *Diospyros species*
 -   [ ] *Diploknema butyracea/Madhuca butyracea*
