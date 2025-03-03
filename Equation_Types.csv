@@ -9,6 +9,7 @@ G,7,log(V),log(D),log(H),,\log_{e}V=a+b\log_{e}D+c\log_{e}H       ,log(V)=a+b*lo
 G,8,V/((D^2)*H),(D^2)*H,,,\frac{V}{D^2H}=a+bD^2H                  ,V/((D^2)*H)=a+b*(D^2)*H,V=(a+b*(D^2)*H)*((D^2)*H)
 G,9,V/((D^2)*H),(D^2)*H,1/((D^2)*H),,\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}  ,V/((D^2)*H)=a+b*(D^2)*H+c/((D^2)*H),V=(a+b*(D^2)*H+c/((D^2)*H))*((D^2)*H)
 G,10,V,D^2,H,(D^2)*H,V=a+bD^{2}+cH+dD^{2}H,V=a+b*D^2+c*H+d*((D^2)*H),V=a+b*D^2+c*H+d*((D^2)*H)
+G,11,V,D^2,(D^2)*H,D*sqrt(H),V=a+bD^{2}+cD^2H+dD\sqrt{H},V=a+b*D^2+c*((D^2)*H)+d*(D*sqrt(H)),V=a+b*D^2+c*((D^2)*H)+d*(D*sqrt(H))
 L,1,V,D^2,,,V=a+b*(D^2),V=a+b*D^2,V=a+b*D^2
 L,2,V,D,D^2,,V=a+bD+cD^{2},V=a+b*D+c*D^2,V=a+b*D+c*D^2
 L,3,V,D,D^2,D^3,V=a+bD+cD^{2}+dD^{3}              ,V=a+b*D+c*D^2+d*D^3,V=a+b*D+c*D^2+d*D^3

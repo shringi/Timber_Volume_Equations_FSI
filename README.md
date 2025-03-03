@@ -34,6 +34,7 @@ Where
 | 8   | $\frac{V}{D^2H}=a+bD^2H$                  |
 | 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$   |
 | 10  | $V=a+bD^{2}+cH+dD^{2}H$                   |
+| 11  | $V=a+bD^{2}+cD^2H+dD\sqrt{H}$             |
 
 : List of types of "General Volume Equations (GVE)"
 
