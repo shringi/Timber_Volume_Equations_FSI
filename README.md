@@ -1,8 +1,8 @@
-![Progress](https://progress-bar.xyz/677/?scale=1117&title=Progress%20(60.61%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/699/?scale=1125&title=Progress%20(62.13%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
-A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers roughly 1100 equations on nearly 222 species.
+A digital compilation of timber volume equations published by Forest Survey of India (FSI), Dehradun, India in 1996. Equations were published in a book titled "Volume Equations for Forests of India, Nepal and Bhutan"[^readme-1]. The book covers \~1200 equations on nearly 222 species.
 
 [^readme-1]: Forest Survey of India. (1996). *Volume equations for forests of India, Nepal, and Bhutan*. Forest Survey of India, Ministry of Environment & Forests, Government of India. [FSI Book Link](https://fsi.nic.in/uploads/documents/volume-equations-for-forests-of-india-nepal-and-bhutan-2803-2023.pdf)
 
@@ -150,12 +150,12 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Diospyros malabarica*
 -   [x] *Diospyros melanoxylon*
 -   [x] *Diospyros species*
--   [ ] *Diploknema butyracea/Madhuca butyracea*
+-   [x] *Diploknema butyracea/Madhuca butyracea*
 -   [ ] *Dipterocarpus indicus*
--   [ ] *Dipterocarpus macrocarpus*
--   [ ] *Dipterocarpus species*
--   [ ] *Dipterocarpus turbinatus*
--   [ ] *Duabanga sonneratioides*
+-   [x] *Dipterocarpus macrocarpus*
+-   [x] *Dipterocarpus species*
+-   [x] *Dipterocarpus turbinatus*
+-   [x] *Duabanga sonneratioides*
 -   [ ] *Duabanga sonneratioides and Sterculia alata*
 -   [ ] *Dysoxylum binectiferum*
 -   [ ] *Dysoxylum malabaricum*
