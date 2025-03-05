@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/699/?scale=1125&title=Progress%20(62.13%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/728/?scale=1129&title=Progress%20(64.48%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -157,37 +157,37 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Dipterocarpus turbinatus*
 -   [x] *Duabanga sonneratioides*
 -   [ ] *Duabanga sonneratioides and Sterculia alata*
--   [ ] *Dysoxylum binectiferum*
--   [ ] *Dysoxylum malabaricum*
--   [ ] *Ehretia laevis*
--   [ ] *Elaeocarpus species*
--   [ ] *Emblica officinalis*
--   [ ] *Engelhardtia spicata*
--   [ ] *Erythrina species*
+-   [x] *Dysoxylum binectiferum*
+-   [x] *Dysoxylum malabaricum*
+-   [x] *Ehretia laevis*
+-   [x] *Elaeocarpus species*
+-   [x] *Emblica officinalis*
+-   [x] *Engelhardtia spicata*
+-   [x] *Erythrina species*
 -   [ ] *Eucalyptus camaldulensis*
 -   [ ] *Eucalyptus globulus*
 -   [ ] *Eucalyptus grandis*
 -   [ ] *Eucalyptus hybrid (Mysore Gum)*
--   [ ] *Eucalyptus species*
--   [ ] *Eugenia cymosa*
--   [ ] *Eugenia species*
--   [ ] *Euphoria longana*
+-   [x] *Eucalyptus species*
+-   [x] *Eugenia cymosa*
+-   [x] *Eugenia species*
+-   [x] *Euphoria longana*
 -   [ ] *Ficus nervosa*
--   [ ] *Ficus species*
+-   [x] *Ficus species*
 -   [ ] *Garcinia cambogia*
 -   [ ] *Garcinia morella*
 -   [x] *Garuga pinnata*
 -   [x] *Gmelina arborea*
--   [ ] *Grewia species*
+-   [x] *Grewia species*
 -   [x] *Grewia tiliaefolia*
--   [ ] *Hardwickia binata*
--   [ ] *Holarrhena antidysenterica*
+-   [x] *Hardwickia binata*
+-   [x] *Holarrhena antidysenterica*
 -   [ ] *Holigarna beddomei*
 -   [ ] *Holigarna grahmii*
 -   [ ] *Holoptelia integrifolia*
--   [ ] *Hydnocarpus kurzii*
--   [ ] *Hymenodictyon excelsum*
--   [ ] *Juglans regia*
+-   [x] *Hydnocarpus kurzii*
+-   [x] *Hymenodictyon excelsum*
+-   [x] *Juglans regia*
 -   [ ] *Kingiodendron pinnatum/Hardwickia pinnata*
 -   [x] *Kydia calycina*
 -   [x] *Lagerstroemia lanceolata*
