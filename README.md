@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/728/?scale=1129&title=Progress%20(64.48%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/730/?scale=1129&title=Progress%20(64.66%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -196,7 +196,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Lannea coromandelica*
 -   [ ] *Lansium anamallayanum*
 -   [x] *Larix griffithii*
--   [ ] *Lyonia (Pieris) ovalifolia*
+-   [x] *Lyonia (Pieris) ovalifolia*
 -   [ ] *Macaranga denticulata*
 -   [ ] *Machilus gammicana*
 -   [ ] *Machilus odoratissima*
