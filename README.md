@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/736/?scale=1131&title=Progress%20(65.08%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/761/?scale=1140&title=Progress%20(66.75%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -200,9 +200,9 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Lyonia (Pieris) ovalifolia*
 -   [x] *Macaranga denticulata*
 -   [x] *Machilus gammicana*
--   [ ] *Machilus odoratissima*
--   [ ] *Machilus species*
--   [ ] *Madhuca latifolia*
+-   [x] *Machilus odoratissima*
+-   [x] *Machilus species*
+-   [x] *Madhuca latifolia*
 -   [x] *Mallotus philippinensis*
 -   [ ] *Manilkara littoralis*
 -   [ ] *Mansonia dipikae*
