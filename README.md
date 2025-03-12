@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/761/?scale=1140&title=Progress%20(66.75%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/764/?scale=1141&title=Progress%20(66.96%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -205,7 +205,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Madhuca latifolia*
 -   [x] *Mallotus philippinensis*
 -   [ ] *Manilkara littoralis*
--   [ ] *Mansonia dipikae*
+-   [x] *Mansonia dipikae*
 -   [ ] *Mastixia arborea*
 -   [ ] *Melanorrhoea usitata*
 -   [ ] *Melia azadirachta*
