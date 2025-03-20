@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/775/?scale=1148&title=Progress%20(67.51%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/776/?scale=1148&title=Progress%20(67.60%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -213,7 +213,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Michelia champaca*
 -   [ ] *Michelia excelsa*
 -   [ ] *Michelia species*
--   [ ] *Miliusa species*
+-   [x] *Miliusa species*
 -   [x] *Mitragyna parviflora*
 -   [ ] *Monsonia species*
 -   [ ] *Myristica magnifica*
