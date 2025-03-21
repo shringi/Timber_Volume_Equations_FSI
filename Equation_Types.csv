@@ -22,4 +22,6 @@ L,9,V/(D^2),1/(D^2),1/D,D,\frac{V}{D^2}=a+\frac{b}{D^2}+\frac{c}{D}+dD,V/(D^2)=a
 L,10,log(V),log(D),,,\log_{e}V=a+b*\log_{e}D,log(V)=a+b*log(D),V=exp(a+b*log(D))
 L,11,sqrt(V),D,D^2,,\sqrt{V}=a+b*D+c*(D^2),sqrt(V)=a+b*D+c*(D^2),V=(a+b*D+c*(D^2))^2
 L,12,V/D,1/D,D,D^2,\frac{V}{D}=a+\frac{b}{D}+c*D+d*(D^2),V/D=a+b/D+c*D+d*(D^2),V=(a+b/D+c*D+d*(D^2))*D
-L,13,V,1/(D^2),1/D,D,V=a+\frac{b}{D^2}+\frac{c}{D}+dD,V=a+b/(D^2)+c/D+d*D,V=a+b/(D^2)+c/D+d*D
+L,13,V,sqrt(D),D,D^2,V=a+b\sqrt{D}+cD+dD^{2},V=a+b*sqrt(D)+c*D+d*(D^2),V=a+b*sqrt(D)+c*D+d*(D^2)
+L,14,V,1/(D^2),1/D,D,V=a+\frac{b}{D^2}+\frac{c}{D}+dD,V=a+b/(D^2)+c/D+d*D,V=a+b/(D^2)+c/D+d*D
+L,15,V/(D^2),1/D,D,D^2,\frac{V}{D^2}=a+\frac{b}{D}+c*D+d*(D^2),V/(D^2)=a+b/D+c*D+d*(D^2),V=(a+b/D+c*D+d*(D^2))*(D^2)
