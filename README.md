@@ -212,13 +212,13 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Melia azadirachta*
 -   [x] *Mesua ferrea*
 -   [x] *Michelia champaca*
--   [ ] *Michelia excelsa*
--   [ ] *Michelia species*
+-   [x] *Michelia excelsa*
+-   [x] *Michelia species*
 -   [x] *Miliusa species*
 -   [x] *Mitragyna parviflora*
--   [ ] *Monsonia species*
+-   [x] *Monsonia species*
 -   [ ] *Myristica magnifica*
--   [ ] *Myristica malabarica*
+-   [x] *Myristica malabarica*
 -   [x] *Olea dioica*
 -   [ ] *Ougeinia dalbergioides*
 -   [ ] *Pajanelia longifolia*
