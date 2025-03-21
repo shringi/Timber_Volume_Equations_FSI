@@ -60,6 +60,7 @@ $Volume (V) = f(D)$
 | 12  | $\frac{V}{D}=a+\frac{b}{D}+cD+d(D^2)$          |
 | 13  | $V=a+b\sqrt{D}+cD+d(D^2)$                      |
 | 14  | $V=a+\frac{b}{D^2}+\frac{c}{D}+dD$             |
+| 15  | $\frac{V}{D^2}=a+\frac{b}{D}+cD+d(D^2)$        |
 
 : List of types of "local Volume Equations (LVE)"
 
