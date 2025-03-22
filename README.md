@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/776/?scale=1148&title=Progress%20(67.60%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/820/?scale=1166&title=Progress%20(70.33%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -220,14 +220,14 @@ Please see the following link of the project wiki for a general description of t
 -   [ ] *Myristica magnifica*
 -   [x] *Myristica malabarica*
 -   [x] *Olea dioica*
--   [ ] *Ougeinia dalbergioides*
--   [ ] *Pajanelia longifolia*
+-   [x] *Ougeinia dalbergioides*
+-   [x] *Pajanelia longifolia*
 -   [ ] *Palaquim ellipticum*
 -   [ ] *Persia macrantha/ Machilus macrantha*
--   [ ] *Phoebe cooperiana*
--   [ ] *Phoebe goalparensis*
--   [ ] *Phoebe species*
--   [ ] *Picea smithiana*
+-   [x] *Phoebe cooperiana*
+-   [x] *Phoebe goalparensis*
+-   [x] *Phoebe species*
+-   [x] *Picea smithiana*
 -   [ ] *Picea spinulosa*
 -   [ ] *Pinus caribaea and Pinus patula*
 -   [ ] *Pinus khasiya*
