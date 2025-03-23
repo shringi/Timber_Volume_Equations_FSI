@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/820/?scale=1166&title=Progress%20(70.33%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/874/?scale=1176&title=Progress%20(74.32%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -228,16 +228,16 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Phoebe goalparensis*
 -   [x] *Phoebe species*
 -   [x] *Picea smithiana*
--   [ ] *Picea spinulosa*
+-   [x] *Picea spinulosa*
 -   [ ] *Pinus caribaea and Pinus patula*
--   [ ] *Pinus khasiya*
--   [ ] *Pinus roxburghii*
--   [ ] *Pinus wallichiana*
--   [ ] *Planchonia andamanica*
+-   [x] *Pinus khasiya*
+-   [x] *Pinus roxburghii*
+-   [x] *Pinus wallichiana*
+-   [x] *Planchonia andamanica*
 -   [ ] *Poplar (Populus deltoides)*
 -   [ ] *Populus ciliata*
--   [ ] *Premna species*
--   [ ] *Pterocarpus dalbergioides*
+-   [x] *Premna species*
+-   [x] *Pterocarpus dalbergioides*
 -   [x] *Pterocarpus marsupium*
 -   [ ] *Pterocymbium tinctorium (Sterculia companulata)*
 -   [ ] *Pterospermum acerifolium*
