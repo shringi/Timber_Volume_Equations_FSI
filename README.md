@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/874/?scale=1176&title=Progress%20(74.32%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/883/?scale=1178&title=Progress%20(74.96%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -239,9 +239,9 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Premna species*
 -   [x] *Pterocarpus dalbergioides*
 -   [x] *Pterocarpus marsupium*
--   [ ] *Pterocymbium tinctorium (Sterculia companulata)*
--   [ ] *Pterospermum acerifolium*
--   [ ] *Pterospermum species*
+-   [x] *Pterocymbium tinctorium (Sterculia companulata)*
+-   [x] *Pterospermum acerifolium*
+-   [x] *Pterospermum species*
 -   [ ] *Quercus dilalala*
 -   [ ] *Quercus incana*
 -   [ ] *Quercus lamellosa*
