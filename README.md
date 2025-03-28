@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/901/?scale=1182&title=Progress%20(76.23%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/905/?scale=1184&title=Progress%20(76.44%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -244,7 +244,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Pterospermum species*
 -   [x] *Quercus dilatata*
 -   [x] *Quercus incana*
--   [ ] *Quercus lamellosa*
+-   [x] *Quercus lamellosa*
 -   [ ] *Quercus lineata*
 -   [ ] *Quercus semecarpifolia*
 -   [ ] *Quercus species*
