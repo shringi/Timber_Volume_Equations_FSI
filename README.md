@@ -22,6 +22,8 @@ Where
 
 **H**: Tree Height (meter)
 
+List of types of "General Volume Equations (GVE)"
+
 | \#  | Equation                                  |
 |-----|-------------------------------------------|
 | 1   | $V=a+bD^{2}H$                             |
@@ -36,13 +38,14 @@ Where
 | 10  | $V=a+bD^{2}+cH+dD^{2}H$                   |
 | 11  | $V=a+bD^{2}+cD^2H+dD\sqrt{H}$             |
 
-: List of types of "General Volume Equations (GVE)"
 
 ## Local Volume Equations
 
 Contains equations of type:
 
 $Volume (V) = f(D)$
+
+List of types of "local Volume Equations (LVE)"
 
 | \#  | Equation                                       |
 |-----|------------------------------------------------|
@@ -62,7 +65,6 @@ $Volume (V) = f(D)$
 | 14  | $V=a+\frac{b}{D^2}+\frac{c}{D}+dD$             |
 | 15  | $\frac{V}{D^2}=a+\frac{b}{D}+cD+d(D^2)$        |
 
-: List of types of "local Volume Equations (LVE)"
 
 # Species digitized:
 
