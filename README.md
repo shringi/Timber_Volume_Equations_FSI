@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/905/?scale=1184&title=Progress%20(76.44%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/909/?scale=1190&title=Progress%20(76.39%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -38,7 +38,6 @@ List of types of "General Volume Equations (GVE)"
 | 10  | $V=a+bD^{2}+cH+dD^{2}H$                   |
 | 11  | $V=a+bD^{2}+cD^2H+dD\sqrt{H}$             |
 
-
 ## Local Volume Equations
 
 Contains equations of type:
@@ -64,7 +63,6 @@ List of types of "local Volume Equations (LVE)"
 | 13  | $V=a+b\sqrt{D}+cD+d(D^2)$                      |
 | 14  | $V=a+\frac{b}{D^2}+\frac{c}{D}+dD$             |
 | 15  | $\frac{V}{D^2}=a+\frac{b}{D}+cD+d(D^2)$        |
-
 
 # Species digitized:
 
@@ -247,7 +245,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Quercus dilatata*
 -   [x] *Quercus incana*
 -   [x] *Quercus lamellosa*
--   [ ] *Quercus lineata*
+-   [x] *Quercus lineata*
 -   [ ] *Quercus semecarpifolia*
 -   [ ] *Quercus species*
 -   [ ] *Rhododendron arboreum*
