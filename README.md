@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-![Progress](https://progress-bar.xyz/911/?scale=1190&title=Progress%20(76.55%%)&width=1000&show_text=FALSE)
-=======
 ![Progress](https://progress-bar.xyz/909/?scale=1190&title=Progress%20(76.39%%)&width=1000&show_text=FALSE)
->>>>>>> 6b8435280b8c364e39aa468659bbf41bb4e98fbe
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
