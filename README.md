@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/912/?scale=1190&title=Progress%20(76.55%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/916/?scale=1190&title=Progress%20(76.97%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -260,8 +260,8 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Shorea assamica*
 -   [ ] *Shorea robusta*
 -   [ ] *Sideroxylon longepetiolatum*
--   [ ] *Spondias pinnata*
--   [ ] *Sterculia villosa*
+-   [x] *Spondias pinnata*
+-   [x] *Sterculia villosa*
 -   [x] *Stereospermum personatum*
 -   [x] *Stereospermum suaveolens*
 -   [ ] *Symplocos spicata*
