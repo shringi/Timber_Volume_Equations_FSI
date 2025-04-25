@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/926/?scale=1190&title=Progress%20(77.75%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/939/?scale=1191&title=Progress%20(78.84%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -247,7 +247,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Quercus lamellosa*
 -   [x] *Quercus lineata*
 -   [x] *Quercus semecarpifolia*
--   [ ] *Quercus species*
+-   [x] *Quercus species*
 -   [ ] *Rhododendron arboreum*
 -   [ ] *Rhododendron species*
 -   [ ] *Salmalia (Bombax) insignis*
