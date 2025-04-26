@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/939/?scale=1191&title=Progress%20(78.84%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/954/?scale=1191&title=Progress%20(80.10%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -248,14 +248,14 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Quercus lineata*
 -   [x] *Quercus semecarpifolia*
 -   [x] *Quercus species*
--   [ ] *Rhododendron arboreum*
--   [ ] *Rhododendron species*
--   [ ] *Salmalia (Bombax) insignis*
--   [ ] *Sapium eugenifolium*
--   [ ] *Saurinia nepalensis*
--   [ ] *Schima khasiana*
--   [ ] *Schima wallichii*
--   [ ] *Schleichera trijuga*
+-   [x] *Rhododendron arboreum*
+-   [x] *Rhododendron species*
+-   [x] *Salmalia (Bombax) insignis*
+-   [x] *Sapium eugenifolium*
+-   [x] *Saurinia nepalensis*
+-   [x] *Schima khasiana*
+-   [x] *Schima wallichii*
+-   [x] *Schleichera trijuga*
 -   [x] *Semecarpus anacardium*
 -   [x] *Shorea assamica*
 -   [ ] *Shorea robusta*
