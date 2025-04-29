@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/987/?scale=1202&title=Progress%20(82.11%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1006/?scale=1211&title=Progress%20(83.07%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -264,19 +264,19 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Sterculia villosa*
 -   [x] *Stereospermum personatum*
 -   [x] *Stereospermum suaveolens*
--   [ ] *Symplocos spicata*
--   [ ] *Symplocos theaefolia*
+-   [x] *Symplocos spicata*
+-   [x] *Symplocos theaefolia*
 -   [x] *Syzygium cumini*
 -   [x] *Syzygium species*
 -   [x] *Taxus baccata*
 -   [x] *Tectona grandis*
 -   [x] *Terminalia belerica*
--   [ ] *Terminalia bialata*
+-   [x] *Terminalia bialata*
 -   [x] *Terminalia chebula*
 -   [x] *Terminalia citrana*
--   [ ] *Terminalia myriocarpa*
+-   [x] *Terminalia myriocarpa*
 -   [x] *Terminalia paniculata*
--   [ ] *Terminalia procera*
+-   [x] *Terminalia procera*
 -   [x] *Terminalia species*
 -   [x] *Terminalia tomentosa*
 -   [ ] *Tetrameles nudiflora*
