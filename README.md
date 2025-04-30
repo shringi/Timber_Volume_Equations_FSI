@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1006/?scale=1211&title=Progress%20(83.07%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1009/?scale=1211&title=Progress%20(83.32%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -279,7 +279,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Terminalia procera*
 -   [x] *Terminalia species*
 -   [x] *Terminalia tomentosa*
--   [ ] *Tetrameles nudiflora*
+-   [x] *Tetrameles nudiflora*
 -   [ ] *Toona ciliata*
 -   [ ] *Toona ciliata/Cedrela toona*
 -   [x] *Trewia nudifiora*
