@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1009/?scale=1211&title=Progress%20(83.32%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1013/?scale=1211&title=Progress%20(83.65%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -281,7 +281,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Terminalia tomentosa*
 -   [x] *Tetrameles nudiflora*
 -   [ ] *Toona ciliata*
--   [ ] *Toona ciliata/Cedrela toona*
+-   [x] *Toona ciliata/Cedrela toona*
 -   [x] *Trewia nudifiora*
 -   [ ] *Tsuga brunoniana*
 -   [ ] *Tsuga dumosa*
