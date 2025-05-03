@@ -284,7 +284,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Toona ciliata/Cedrela toona*
 -   [x] *Trewia nudifiora*
 -   [ ] *Tsuga brunoniana*
--   [ ] *Tsuga dumosa*
+-   [x] *Tsuga dumosa*
 -   [ ] *Vateria indica*
 -   [ ] *Vitex peduncularis*
 -   [x] *Wrightia tinctoria*
