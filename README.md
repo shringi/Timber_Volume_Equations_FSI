@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1013/?scale=1211&title=Progress%20(83.65%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1024/?scale=1211&title=Progress%20(84.56%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -283,10 +283,10 @@ Please see the following link of the project wiki for a general description of t
 -   [ ] *Toona ciliata*
 -   [x] *Toona ciliata/Cedrela toona*
 -   [x] *Trewia nudifiora*
--   [ ] *Tsuga brunoniana*
+-   [x] *Tsuga brunoniana*
 -   [x] *Tsuga dumosa*
--   [ ] *Vateria indica*
--   [ ] *Vitex peduncularis*
+-   [x] *Vateria indica*
+-   [x] *Vitex peduncularis*
 -   [x] *Wrightia tinctoria*
 -   [x] *Xerospermum glabratum*
 -   [ ] *Xylia xylocarpa*
