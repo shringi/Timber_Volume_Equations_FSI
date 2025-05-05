@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1024/?scale=1211&title=Progress%20(84.56%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1033/?scale=1212&title=Progress%20(85.23%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -289,8 +289,8 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Vitex peduncularis*
 -   [x] *Wrightia tinctoria*
 -   [x] *Xerospermum glabratum*
--   [ ] *Xylia xylocarpa*
--   [ ] *Zanthoxylum rhetsa*
+-   [x] *Xylia xylocarpa*
+-   [x] *Zanthoxylum rhetsa*
 -   [x] *Zizyphus xylopyra*
 
 # References
