@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1033/?scale=1212&title=Progress%20(85.23%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1034/?scale=1235&title=Progress%20(83.72%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -153,7 +153,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Diospyros melanoxylon*
 -   [x] *Diospyros species*
 -   [x] *Diploknema butyracea/Madhuca butyracea*
--   [ ] *Dipterocarpus indicus*
+-   [x] *Dipterocarpus indicus*
 -   [x] *Dipterocarpus macrocarpus*
 -   [x] *Dipterocarpus species*
 -   [x] *Dipterocarpus turbinatus*
