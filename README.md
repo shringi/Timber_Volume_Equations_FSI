@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1036/?scale=1235&title=Progress%20(83.89%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1037/?scale=1235&title=Progress%20(83.97%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -177,14 +177,14 @@ Please see the following link of the project wiki for a general description of t
 -   [ ] *Ficus nervosa*
 -   [x] *Ficus species*
 -   [ ] *Garcinia cambogia*
--   [ ] *Garcinia morella*
+-   [x] *Garcinia morella*
 -   [x] *Garuga pinnata*
 -   [x] *Gmelina arborea*
 -   [x] *Grewia species*
 -   [x] *Grewia tiliaefolia*
 -   [x] *Hardwickia binata*
 -   [x] *Holarrhena antidysenterica*
--   [ ] *Holigarna beddomei*
+-   [x] *Holigarna beddomei*
 -   [ ] *Holigarna grahmii*
 -   [ ] *Holoptelia integrifolia*
 -   [x] *Hydnocarpus kurzii*
