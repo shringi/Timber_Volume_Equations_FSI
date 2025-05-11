@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1039/?scale=1235&title=Progress%20(84.13%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1048/?scale=1236&title=Progress%20(84.79%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -185,7 +185,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Hardwickia binata*
 -   [x] *Holarrhena antidysenterica*
 -   [x] *Holigarna beddomei*
--   [ ] *Holigarna grahmii*
+-   [x] *Holigarna grahmii*
 -   [ ] *Holoptelia integrifolia*
 -   [x] *Hydnocarpus kurzii*
 -   [x] *Hymenodictyon excelsum*
