@@ -190,7 +190,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Hydnocarpus kurzii*
 -   [x] *Hymenodictyon excelsum*
 -   [x] *Juglans regia*
--   [ ] *Kingiodendron pinnatum/Hardwickia pinnata*
+-   [x] *Kingiodendron pinnatum/Hardwickia pinnata*
 -   [x] *Kydia calycina*
 -   [x] *Lagerstroemia lanceolata*
 -   [x] *Lagerstroemia parviflora*
