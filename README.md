@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1048/?scale=1236&title=Progress%20(84.79%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1050/?scale=1236&title=Progress%20(84.95%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -196,7 +196,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Lagerstroemia parviflora*
 -   [x] *Lagerstroemia species*
 -   [x] *Lannea coromandelica*
--   [ ] *Lansium anamallayanum*
+-   [x] *Lansium anamallayanum*
 -   [x] *Larix griffithii*
 -   [x] *Lyonia (Pieris) ovalifolia*
 -   [x] *Macaranga denticulata*
