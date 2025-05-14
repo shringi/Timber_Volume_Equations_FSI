@@ -24,19 +24,20 @@ Where
 
 List of types of "General Volume Equations (GVE)"
 
-| \#  | Equation                                  |
-|-----|-------------------------------------------|
-| 1   | $V=a+bD^{2}H$                             |
-| 2   | $V=a+bD+cD^{2}H$                          |
-| 3   | $V=a+bD^{2}+c\left(D^{2}H\right)^{2}$     |
-| 4   | $V=a+bD+cD^{2}H+d\left(D^{2}H\right)^{2}$ |
-| 5   | $V=a+bD+cH+dD^{2}H$                       |
-| 6   | $V=a+bD+cD^{2}+dD^{2}H$                   |
-| 7   | $\log_{e}V=a+b\log_{e}D+c\log_{e}H$       |
-| 8   | $\frac{V}{D^2H}=a+bD^2H$                  |
-| 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$   |
-| 10  | $V=a+bD^{2}+cH+dD^{2}H$                   |
-| 11  | $V=a+bD^{2}+cD^2H+dD\sqrt{H}$             |
+| \#  | Equation                                       |
+|-----|------------------------------------------------|
+| 1   | $V=a+bD^{2}H$                                  |
+| 2   | $V=a+bD+cD^{2}H$                               |
+| 3   | $V=a+bD^{2}+c\left(D^{2}H\right)^{2}$          |
+| 4   | $V=a+bD+cD^{2}H+d\left(D^{2}H\right)^{2}$      |
+| 5   | $V=a+bD+cH+dD^{2}H$                            |
+| 6   | $V=a+bD+cD^{2}+dD^{2}H$                        |
+| 7   | $\log_{e}V=a+b\log_{e}D+c\log_{e}H$            |
+| 8   | $\frac{V}{D^2H}=a+bD^2H$                       |
+| 9   | $\frac{V}{D^2H}=a+bD^2H+\frac{c}{D^2H}$        |
+| 10  | $V=a+bD^{2}+cH+dD^{2}H$                        |
+| 11  | $V=a+bD^{2}+cD^2H+dD\sqrt{H}$                  |
+| 12  | $\frac{V}{D^2}=a+\frac{b}{D^2H}+\frac{c}{D^2}$ |
 
 ## Local Volume Equations
 
