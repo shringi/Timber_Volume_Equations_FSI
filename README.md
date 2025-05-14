@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1056/?scale=1236&title=Progress%20(85.44%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1072/?scale=1240&title=Progress%20(86.45%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -217,7 +217,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Miliusa species*
 -   [x] *Mitragyna parviflora*
 -   [x] *Monsonia species*
--   [ ] *Myristica magnifica*
+-   [x] *Myristica magnifica*
 -   [x] *Myristica malabarica*
 -   [x] *Olea dioica*
 -   [x] *Ougeinia dalbergioides*
