@@ -1,4 +1,4 @@
-![Progress](https://progress-bar.xyz/1072/?scale=1240&title=Progress%20(86.45%%)&width=1000&show_text=FALSE)
+![Progress](https://progress-bar.xyz/1088/?scale=1241&title=Progress%20(87.67%%)&width=1000&show_text=FALSE)
 
 # Timber Volume Equations (Published by Forest Survey of India (FSI))
 
@@ -223,7 +223,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Olea dioica*
 -   [x] *Ougeinia dalbergioides*
 -   [x] *Pajanelia longifolia*
--   [ ] *Palaquim ellipticum*
+-   [x] *Palaquim ellipticum*
 -   [ ] *Persia macrantha/ Machilus macrantha*
 -   [x] *Phoebe cooperiana*
 -   [x] *Phoebe goalparensis*
