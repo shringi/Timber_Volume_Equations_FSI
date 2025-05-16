@@ -224,7 +224,7 @@ Please see the following link of the project wiki for a general description of t
 -   [x] *Ougeinia dalbergioides*
 -   [x] *Pajanelia longifolia*
 -   [x] *Palaquim ellipticum*
--   [ ] *Persia macrantha/ Machilus macrantha*
+-   [x] *Persia macrantha/ Machilus macrantha*
 -   [x] *Phoebe cooperiana*
 -   [x] *Phoebe goalparensis*
 -   [x] *Phoebe species*
