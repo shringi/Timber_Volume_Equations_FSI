@@ -65,6 +65,9 @@ List of types of "local Volume Equations (LVE)"
 | 14  | $V=a+\frac{b}{D^2}+\frac{c}{D}+dD$             |
 | 15  | $\frac{V}{D^2}=a+\frac{b}{D}+cD+d(D^2)$        |
 
+## Others
+
+Some equations involved other parameters.
 # Species digitized:
 
 Please see the following link of the project wiki for a general description of the species.
